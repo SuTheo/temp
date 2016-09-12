@@ -1,5 +1,5 @@
 ---
-title: LinuxWindows/CVI
+title: LabWindows/CVI
 author: SEIE, Soochow University
 date: Week 02, 2016-2017-1
 ---

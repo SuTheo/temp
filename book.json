@@ -1,3 +1,5 @@
 {
-
+    "plugins": [
+        "pdf-styling"
+    ]
 }
